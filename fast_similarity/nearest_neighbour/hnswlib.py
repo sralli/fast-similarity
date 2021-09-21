@@ -1,7 +1,7 @@
 import hnswlib
 
 class HNSWLIB:
-    def initialize_index(self, dim: 128, max_elements: 2000, space='cosine', ef_construction=50, M=16):
+    def initialize_index(self, dim=128, max_elements= 2000, space='cosine', ef_construction=50, M=16):
         '''
             This function initializes the search index for the HNSWLIB search index
 
