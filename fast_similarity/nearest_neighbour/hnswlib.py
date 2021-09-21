@@ -21,7 +21,7 @@ class HNSWLIB:
 
         self.index.init_index(max_elements=max_elements, ef_construction=ef_construction, M=M)
 
-        
+        return self.index
 
 
     def change_ef(self, ef_value=50):
