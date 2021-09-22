@@ -1,18 +1,12 @@
 ==========================
-Nearest Neigbor Similarity
+Fast Similarity: Approximate Nearest Neigbor Similarity
 ==========================
 
+[![PyPi](https://img.shields.io/pypi/v/fast_similarity.svg)]( https://pypi.python.org/pypi/fast_similarity)
 
-.. image:: https://img.shields.io/pypi/v/fast_similarity.svg
-        :target: https://pypi.python.org/pypi/fast_similarity
+[![Travis-CI](https://img.shields.io/travis/sralli/fast_similarity.svg)](https://travis-ci.com/sralli/fast_similarity)
 
-.. image:: https://img.shields.io/travis/sralli/fast_similarity.svg
-        :target: https://travis-ci.com/sralli/fast_similarity
-
-.. image:: https://readthedocs.org/projects/fast-similarity/badge/?version=latest
-        :target: https://fast-similarity.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
-
+[![Docs]( https://readthedocs.org/projects/fast-similarity/badge/?version=latest)](https://fast-similarity.readthedocs.io/en/latest/?version=latest)
 
 
 # Pre-Alpha Intallation steps: 
