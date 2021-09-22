@@ -15,7 +15,7 @@ Nearest Neigbor Similarity
 
 
 
-Pre-Alpha Intallation steps: 
+# Pre-Alpha Intallation steps: 
 ```
         pip install -e .
 ```
@@ -24,19 +24,22 @@ Pre-Alpha Intallation steps:
 One package to create a nearest neighbor similarity based system
 
 
-* Free software: MIT license
-* Documentation: https://fast-similarity.readthedocs.io.
+- Free software: MIT license
+- Documentation: https://fast-similarity.readthedocs.io.
 
 
-Features
+# Features
 --------
 
-* TODO
+- TODO:
+ - Add examples for hnswlib and annoy
+ - Finish FAISS base version
+ - Add tests
+ - Update readme
+ - Add to Pypi
+ - Update docs
 
-Credits
+# Credits
 -------
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
