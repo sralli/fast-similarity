@@ -25,7 +25,7 @@ One package to create a nearest neighbor similarity based system
 # Features
 --------
 
-- TODO:
+- **TODO**:
  - Add examples for hnswlib and annoy
  - Finish FAISS base version
  - Add tests
