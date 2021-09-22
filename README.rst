@@ -15,6 +15,11 @@ Nearest Neigbor Similarity
 
 
 
+Pre-Alpha Intallation steps: 
+```
+        pip install -e .
+```
+
 
 One package to create a nearest neighbor similarity based system
 
