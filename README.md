@@ -1,4 +1,4 @@
-==========================
+
 Fast Similarity: Approximate Nearest Neigbor Similarity
 ==========================
 
